@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MeowCalendar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="current_date">June, 2016</string>
+
+    <string name="mon">ПН</string>
+    <string name="tue">ВТ</string>
+    <string name="wed">СР</string>
+    <string name="thu">ЧТ</string>
+    <string name="fri">ПТ</string>
+    <string name="sat">СБ</string>
+    <string name="sun">ВС</string>
+
+    <string name="last_date">30</string>
+
+</resources>
